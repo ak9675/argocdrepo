@@ -17,6 +17,4 @@ spec:
     spec:
       containers:
       - name: c1
-        image: nginxdemos/hello
-      - name: c2
-        image: redis
+        image: kumar2167/demo-nginx

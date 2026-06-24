@@ -17,4 +17,4 @@ spec:
     spec:
       containers:
       - name: c1
-        image: kumar2167/demo-nginx:37ffc1c1bc749663450db8ec62905b48e9bc3c79
+        image: kumar2167/demo-nginx:355373455467b27ce0c6eb293665c5b8d873cf8c
